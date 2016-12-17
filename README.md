@@ -1,2 +1,2 @@
 # MyTests
-My programs for testing
+This is  a test repository
